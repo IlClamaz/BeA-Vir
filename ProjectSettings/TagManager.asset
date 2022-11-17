@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Door
+  - FadingObj
+  - FirstFloor
+  - SecondFloor
+  - ThirdFloor
+  - Area
+  - TelePoint
+  - TargetPoint
+  - Mound
+  - Finds
+  - Ring
+  - Tree
+  - Logo
+  - Terrain
+  - Ceiling
+  - TriggerManager
+  - Glass
+  - LightBeam
+  - LightSwitcher
+  - TimeLine
+  - FindReport
+  - SightPoint
+  - UITitle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
